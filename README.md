@@ -12,7 +12,7 @@ O projeto parte do plano de avaliação A3 foi desenvolvido e documentado por:
  - `bin` - pasta com as classes binárias criadas pelo Java;
  - `lib` - contém as bibliotecas utilizadas no projeto;
  - `src` - contém os códigos fontes do projeto;
- -- `sql` - contém os comandos SQL utilizados no projeto;
+ - `sql` - contém os comandos SQL utilizados no projeto;
  
  ## 📜 Descrição
  
@@ -24,7 +24,7 @@ No arquivo [MySQL_conexao.java](https://github.com/DeVinc1/Calculadora_Profissio
     String  url = "jdbc:mysql://localhost:3306/data_base?user=root&password=Admin01&serverTimezone=UTC";
     
 
- - É necessário alterar os parametros:
- --`data_base` para o nome da base de dados local;
- --`user` para o nome de usuário do MySQL local;
- --`password` para a senha do banco de dados MySQL local. 
+É necessário alterar os parametros:
+ -`data_base` para o nome da base de dados local;
+ -`user` para o nome de usuário do MySQL local;
+ -`password` para a senha do banco de dados MySQL local. 
