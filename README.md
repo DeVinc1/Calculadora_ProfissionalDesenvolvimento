@@ -25,6 +25,6 @@ No arquivo [MySQL_conexao.java](https://github.com/DeVinc1/Calculadora_Profissio
     
 
 É necessário alterar os parametros:
- -`data_base` para o nome da base de dados local;
- -`user` para o nome de usuário do MySQL local;
- -`password` para a senha do banco de dados MySQL local. 
+ - `data_base` para o nome da base de dados local;
+ - `user` para o nome de usuário do MySQL local;
+ - `password` para a senha do banco de dados MySQL local. 
