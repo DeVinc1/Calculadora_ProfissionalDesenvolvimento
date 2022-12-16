@@ -26,9 +26,3 @@ CREATE TABLE `data_base`.`orçamento_string`
  */
  
  INSERT INTO `data_base`.`orçamento_" + itemDoSistema.getProjetoPai() + "` (`nome_Item`, `complexidade_Item`, `tipo_Item`, `horasGastas_Item`, `valor_Item`) VALUES (?, ?, ?, ?, ?);
-
-
-
- Criando arquivo com os comandos SQL utilizados
-
-Arquivo com os comandos SQL utilizados dentro da classe "MySQL_manipulacao" para integrar o app em Java com o banco de dados MySQL
